@@ -1,0 +1,23 @@
+# Raw source files — 45 MB, regenerated exactly by fetch_sources.sh
+data/bronze/raw/
+
+# Intermediate Parquet — rebuilt by running the notebooks
+data/bronze/tables/
+data/silver/*.parquet
+data/gold/*.parquet
+data/bronze/manifest.parquet
+
+# Evidence is NOT ignored. Dated copies of the source pages carry claims that exist
+# nowhere else, and pages get edited. See README, "Provenance and Evidence".
+
+# Notebook and OS noise
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

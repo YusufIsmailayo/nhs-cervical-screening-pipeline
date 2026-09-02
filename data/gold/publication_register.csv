@@ -1,0 +1,29 @@
+series,source_id,reference_period_end,publication_date,lag_days,status,kind
+annual,annual_2004-05,2005-03-31,2005-10-28,211,not downloaded,series history
+annual,annual_2005-06,2006-03-31,2006-12-20,264,not downloaded,series history
+annual,annual_2006-07,2007-03-31,2007-10-29,212,not downloaded,series history
+annual,annual_2007-08,2008-03-31,2008-10-28,211,not downloaded,series history
+annual,annual_2008-09,2009-03-31,2009-10-22,205,not downloaded,series history
+annual,annual_2009-10,2010-03-31,2010-10-21,204,not downloaded,series history
+annual,annual_2010-11,2011-03-31,2011-11-24,238,not downloaded,series history
+annual,annual_2011-12,2012-03-31,2012-10-18,201,not downloaded,series history
+annual,annual_2012-13,2013-03-31,2013-10-24,207,not downloaded,series history
+annual,annual_2013-14,2014-03-31,2014-11-25,239,not downloaded,series history
+annual,annual_2014-15,2015-03-31,2015-11-10,224,not downloaded,series history
+annual,annual_2015-16,2016-03-31,2016-11-15,229,not downloaded,series history
+annual,annual_2016-17,2017-03-31,2017-11-07,221,not downloaded,series history
+annual,annual_2017-18,2018-03-31,2018-11-27,241,not downloaded,series history
+annual,annual_2018-19,2019-03-31,2019-11-21,235,not downloaded,series history
+annual,annual_2019-20,2020-03-31,2020-11-26,240,not downloaded,series history
+annual,annual_2020-21,2021-03-31,2021-12-14,258,not downloaded,series history
+annual,annual_2021-22,2022-03-31,2022-11-24,238,not downloaded,series history
+govuk_quarterly,govuk_mar_2023,2023-03-31,2023-10-31,214,used,downloaded
+govuk_quarterly,govuk_sep_2023,2023-09-30,2023-10-31,31,used,downloaded
+govuk_quarterly,govuk_jun_2023,2023-06-30,2023-10-31,123,used,downloaded
+annual,annual_2022-23,2023-03-31,2023-11-23,237,not downloaded,series history
+govuk_quarterly,govuk_dec_2023,2023-12-31,2024-04-26,117,used,downloaded
+annual,annual_phof,2024-03-31,2024-11-28,242,used,downloaded
+mi_quarterly,mi_quarterly_subicb,2024-06-30,2025-01-07,191,used,downloaded
+mi_quarterly,mi_quarterly_la,2024-03-31,2025-01-07,282,used,downloaded
+mi_quarterly,mi_q1_dq_issue,2024-06-30,2025-02-13,228,rejected,downloaded
+govuk_quarterly,govuk_mar_2024,2024-03-31,2025-07-16,472,used,downloaded

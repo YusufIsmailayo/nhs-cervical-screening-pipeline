@@ -1,0 +1,48 @@
+name,value,unit,basis,source,note
+headline_coverage_pct,68.7988,%,computed,annual_phof,"Summed across local authority numerators and denominators, not averaged"
+headline_coverage_published,68.8,%,read from source,annual_phof,As printed on the publication page and quoted in the press release
+eligible_25_64,16538084,people,computed,annual_phof,
+screened_25_64,11378008,people,computed,annual_phof,
+target_pct,80.0,%,read from source,nhs_england_press_release,
+la_count_annual,151,authorities,computed,annual_phof,
+la_at_or_above_target,0,authorities,computed,annual_phof,
+la_coverage_min,46.68,%,computed,annual_phof,
+la_coverage_max,77.79,%,computed,annual_phof,
+la_coverage_median,70.45,%,computed,annual_phof,
+la_spread_pp,31.11,pp,computed,annual_phof,
+la_lowest_name,Kensington and Chelsea,,computed,annual_phof,
+la_highest_name,East Riding of Yorkshire,,computed,annual_phof,
+la_below_england,61,authorities,computed,annual_phof,
+la_count_quarterly,153,authorities,computed,mi_quarterly_la,Lists City of London and Isles of Scilly separately
+screens_to_target_total,1852580,screens,computed,mi_quarterly_la,"Publisher's own per-authority column, summed across England at 31 March 2024"
+screens_to_target_25_49,1538357,screens,computed,mi_quarterly_la,
+screens_to_target_50_64,314223,screens,computed,mi_quarterly_la,
+kits_announced,4000000,kits,read from source,nhs_england_press_release,'Nearly 4 million women' — the release does not give a precise figure
+kits_to_gap_ratio,2.16,ratio,computed,,"Kits announced against measured additional screens needed. Different populations: the gap is measured on ages 25-64, the kits go to non-responders aged 30-65, and a kit posted is not a screen completed."
+last_public_observation,2024-06-30,date,computed,mi_quarterly_subicb,The most recent period end for which any coverage figure has been published
+days_last_observation_to_announcement,786,days,computed,,
+days_reference_to_announcement,877,days,computed,,"31 March 2024, the date the headline figure describes, to the announcement"
+national_coverage_first_year,74.1619,%,computed,annual_phof,"At 2014-03-31, the earliest year the annual file carries"
+national_coverage_latest_year,68.7988,%,computed,annual_phof,At 2024-03-31
+decade_change_pp,-5.3631,pp,computed,annual_phof,Change across the full annual series
+years_of_decline,7,years,computed,annual_phof,Of 10 year-on-year changes in the series
+national_coverage_residence_base,68.7988,%,computed,annual_phof,Local authority of residence; the accredited annual publication
+national_coverage_registration_base,69.9363,%,computed,mi_quarterly_subicb,Sub-ICB of GP registration; management information
+residence_vs_registration_gap_pp,1.1375,pp,computed,,"Same date, two population bases. The eligible denominators differ by 301,884 people."
+govuk_vs_dashboard_max_difference_pp,0.000305,pp,computed,,"Across every quarter both publish. Effectively identical, so the GOV.UK files republish the same underlying data rather than providing an independent series."
+annual_publications_count,20,publications,computed,page_nhsd_annual_series.html,
+annual_first_publication,2005-10-28,date,computed,page_nhsd_annual_series.html,
+annual_last_publication,2024-11-28,date,computed,page_nhsd_annual_series.html,
+annual_longest_historical_gap,418,days,computed,page_nhsd_annual_series.html,Longest interval between consecutive annual publications before the current one
+annual_open_gap_days,643,days,computed,page_nhsd_annual_series.html,"From 2024-11-28 to 2026-09-02, still running"
+annual_open_gap_ratio,1.54,ratio,computed,,
+days_last_new_period_to_announcement,595,days,computed,mi_quarterly_la,"7 January 2025, the last publication to add a period nobody had seen before. GOV.UK published again on 16 July 2025, but that file republished the March 2024 quarter rather than adding one."
+last_publication_event,2025-07-16,date,computed,manifest,"The most recent publication of any kind in these three series, republished data"
+govuk_lag_min,31,days,computed,manifest,
+govuk_lag_max,472,days,computed,manifest,
+announcement_date,2026-08-25,date,read from source,nhs_england_press_release,
+elimination_target_year,2040,year,read from source,nhs_england_press_release,
+first_phase_age_range,30 to 65,,read from source,nhs_england_press_release,
+youscreen_additional_screened,400000,per year,read from source,nhs_england_press_release,"'about 400,000 each year' from the YouScreen trial"
+mi_la_last_quarter,2023-24 Q4,,computed,,
+mi_subicb_last_quarter,2024-25 Q1,,computed,,

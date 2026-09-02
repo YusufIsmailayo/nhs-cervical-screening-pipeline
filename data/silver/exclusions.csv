@@ -1,0 +1,6 @@
+scope,ref,reason
+bronze source,annual_workbook,"34 formatted presentation sheets. The CSVs in the same publication carry the same statistics already machine-readable. Rejected for convenience, not quality."
+bronze source,mi_quarterly_gp,"Below the smallest unit this project reasons about, and disclosure-controlled at this level so rows are not safely additive."
+bronze source,mi_q1_dq_issue,"The 171 of 6,470 practices affected by a duplication error corrected 13 Feb 2025. Documents a correction to GP data, which is not used here."
+bronze source,govuk_mar_2024_subicb_gp,The Excel twin of the ODS on the same page. One is enough.
+bronze source,annual_kc53_coverage,"Fine age bands (<20, 20-24, 25-29 ...) do not conform to the PHOF 25-49 / 50-64 vocabulary, and the national trend it would provide is already in annual_phof. Landed in Bronze, not carried into the conformed table."
