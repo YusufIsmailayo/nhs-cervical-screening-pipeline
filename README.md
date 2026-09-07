@@ -156,7 +156,9 @@ match and Bronze will tell you which one — which is the point of recording the
 
 ## Article
 
-*Four Million Test Kits, Measured Against a Number From March 2024* — on Medium.
+[Four Million Test Kits, Measured Against a Number From March 2024](https://medium.com/@yusufismail_91982/four-million-test-kits-measured-against-a-number-from-march-2024-bbacc827c56a) — Medium.
+
+Every figure in the article is a named row in `data/gold/facts.csv`, carrying its source and whether it was computed from the data or read off a published page.
 
 ## Author
 

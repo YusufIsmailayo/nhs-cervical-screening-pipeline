@@ -34,8 +34,8 @@ annual_publications_count,20,publications,computed,page_nhsd_annual_series.html,
 annual_first_publication,2005-10-28,date,computed,page_nhsd_annual_series.html,
 annual_last_publication,2024-11-28,date,computed,page_nhsd_annual_series.html,
 annual_longest_historical_gap,418,days,computed,page_nhsd_annual_series.html,Longest interval between consecutive annual publications before the current one
-annual_open_gap_days,644,days,computed,page_nhsd_annual_series.html,"From 2024-11-28 to 2026-09-03, still running"
-annual_open_gap_ratio,1.54,ratio,computed,,
+annual_open_gap_days,648,days,computed,page_nhsd_annual_series.html,"From 2024-11-28 to 2026-09-07, still running"
+annual_open_gap_ratio,1.55,ratio,computed,,
 days_last_new_period_to_announcement,595,days,computed,mi_quarterly_la,"7 January 2025, the last publication to add a period nobody had seen before. GOV.UK published again on 16 July 2025, but that file republished the March 2024 quarter rather than adding one."
 last_publication_event,2025-07-16,date,computed,manifest,"The most recent publication of any kind in these three series, republished data"
 govuk_lag_min,31,days,computed,manifest,
