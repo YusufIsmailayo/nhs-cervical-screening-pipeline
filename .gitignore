@@ -21,3 +21,21 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+
+# --- Never commit: secrets, working notes, drafts, private folders ---
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+token*.json
+.streamlit/secrets.toml
+HANDOFF*.md
+*handoff*
+social/
+Claude outputs/
+writing/
+drafts/
+article/
+_local/
+outreach/
